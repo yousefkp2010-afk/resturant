@@ -1,50 +1,8 @@
 {
   "menu": [
-    {
-      "id": "m1781971656515",
-      "name": "بيتزا",
-      "price": 100,
-      "category": "معجنات",
-      "available": true,
-      "imageUrl": "https://raw.githubusercontent.com/yousefkp2010-afk/resturant/main/images/img_1781971649713_store_icon.png"
-    }
+ 
   ],
   "orders": [
-    {
-      "orderId": "ord-1781970458996",
-      "customerName": "yousef",
-      "phone": "0985549854",
-      "address": "جامع رويس",
-      "items": [
-        {
-          "id": "m1781969140133",
-          "name": "بيتزا",
-          "price": 2000,
-          "qty": 1
-        }
-      ],
-      "total": 2000,
-      "notes": "بدي ياهم تازا",
-      "status": "accepted",
-      "timestamp": "2026-06-20T15:47:38.996Z"
-    },
-    {
-      "orderId": "ord-1781971694030",
-      "customerName": "يوسف",
-      "phone": "0999999",
-      "address": "صسثهخالط",
-      "items": [
-        {
-          "id": "m1781971656515",
-          "name": "بيتزا",
-          "price": 100,
-          "qty": 4
-        }
-      ],
-      "total": 400,
-      "notes": "تبتبت",
-      "status": "accepted",
-      "timestamp": "2026-06-20T16:08:14.030Z"
-    }
+  
   ]
 }
