@@ -25,5 +25,24 @@
       "imageUrl": "https://raw.githubusercontent.com/yousefkp2010-afk/resturant/main/images/img_1781970383800_store_icon.png"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "orderId": "ord-1781970458996",
+      "customerName": "yousef",
+      "phone": "0985549854",
+      "address": "جامع رويس",
+      "items": [
+        {
+          "id": "m1781969140133",
+          "name": "بيتزا",
+          "price": 2000,
+          "qty": 1
+        }
+      ],
+      "total": 2000,
+      "notes": "بدي ياهم تازا",
+      "status": "pending",
+      "timestamp": "2026-06-20T15:47:38.996Z"
+    }
+  ]
 }
