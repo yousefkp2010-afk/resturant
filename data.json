@@ -9,5 +9,24 @@
       "imageUrl": "https://raw.githubusercontent.com/yousefkp2010-afk/resturant/main/images/img_1781972280014_store_icon.png"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "orderId": "ord-1781972410041",
+      "customerName": "youseg",
+      "phone": "0934835366",
+      "address": "seiogh",
+      "items": [
+        {
+          "id": "m1781972286069",
+          "name": "بيتزا",
+          "price": 2,
+          "qty": 2
+        }
+      ],
+      "total": 4,
+      "notes": "",
+      "status": "pending",
+      "timestamp": "2026-06-20T16:20:10.042Z"
+    }
+  ]
 }
