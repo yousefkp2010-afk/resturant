@@ -1,14 +1,6 @@
 {
   "menu": [
     {
-      "id": "m1781969140133",
-      "name": "بيتزا",
-      "price": 2000,
-      "category": "معجنات",
-      "available": true,
-      "imageUrl": "https://raw.githubusercontent.com/yousefkp2010-afk/resturant/main/images/img_1781969110140_store_icon.png"
-    },
-    {
       "id": "m1781969158723",
       "name": "بيتزا",
       "price": 2000,
