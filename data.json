@@ -89,6 +89,27 @@
       "status": "reviewing",
       "timestamp": "2026-06-21T08:44:21.506Z",
       "synced": false
+    },
+    {
+      "orderId": "ord-1782031559626",
+      "customerName": "efgesg",
+      "phone": "0934845366",
+      "deliveryMethod": "pickup",
+      "address": "",
+      "landmark": "",
+      "items": [
+        {
+          "id": "m1781972286069",
+          "name": "بيتزا",
+          "price": 2,
+          "qty": 1
+        }
+      ],
+      "total": 2,
+      "notes": "",
+      "status": "reviewing",
+      "timestamp": "2026-06-21T08:45:59.626Z",
+      "synced": false
     }
   ]
 }
