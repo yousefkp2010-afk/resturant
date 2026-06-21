@@ -110,6 +110,27 @@
       "status": "reviewing",
       "timestamp": "2026-06-21T08:45:59.626Z",
       "synced": false
+    },
+    {
+      "orderId": "ord-1782065375775",
+      "customerName": "yousef kp",
+      "phone": "0934845366",
+      "deliveryMethod": "delivery",
+      "address": "33.96674068084316,36.65488120868024",
+      "landmark": "جنب السينما",
+      "items": [
+        {
+          "id": "m1781972286069",
+          "name": "بيتزا",
+          "price": 2,
+          "qty": 2
+        }
+      ],
+      "total": 4,
+      "notes": "",
+      "status": "reviewing",
+      "timestamp": "2026-06-21T18:09:35.775Z",
+      "synced": false
     }
   ]
 }
