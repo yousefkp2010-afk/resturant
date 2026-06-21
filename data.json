@@ -173,6 +173,27 @@
       "status": "ready",
       "timestamp": "2026-06-21T19:18:47.410Z",
       "synced": false
+    },
+    {
+      "orderId": "ord-1782070105676",
+      "customerName": "شهد المعروف",
+      "phone": "0981385946",
+      "deliveryMethod": "pickup",
+      "address": "34.7364692,36.6668643",
+      "landmark": "بجانب مول غولدن هاوس",
+      "items": [
+        {
+          "id": "m1781972286069",
+          "name": "بيتزا",
+          "price": 2,
+          "qty": 1
+        }
+      ],
+      "total": 2,
+      "notes": "",
+      "status": "reviewing",
+      "timestamp": "2026-06-21T19:28:25.676Z",
+      "synced": false
     }
   ]
 }
