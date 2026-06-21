@@ -131,6 +131,27 @@
       "status": "reviewing",
       "timestamp": "2026-06-21T18:09:35.775Z",
       "synced": false
+    },
+    {
+      "orderId": "ord-1782069079922",
+      "customerName": "ملهم كبور",
+      "phone": "0934845366",
+      "deliveryMethod": "delivery",
+      "address": "33.53,36.29",
+      "landmark": "جنب السينما",
+      "items": [
+        {
+          "id": "m1781972286069",
+          "name": "بيتزا",
+          "price": 2,
+          "qty": 1
+        }
+      ],
+      "total": 2,
+      "notes": "",
+      "status": "reviewing",
+      "timestamp": "2026-06-21T19:11:19.923Z",
+      "synced": false
     }
   ]
 }
