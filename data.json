@@ -194,6 +194,27 @@
       "status": "ready",
       "timestamp": "2026-06-21T19:28:25.676Z",
       "synced": false
+    },
+    {
+      "orderId": "ord-1782070743198",
+      "customerName": "رنا ضبعان",
+      "phone": "0934845366",
+      "deliveryMethod": "delivery",
+      "address": "ساحة رويس",
+      "landmark": "جانب ضمرة",
+      "items": [
+        {
+          "id": "m1781972286069",
+          "name": "بيتزا",
+          "price": 2,
+          "qty": 2
+        }
+      ],
+      "total": 4,
+      "notes": "",
+      "status": "reviewing",
+      "timestamp": "2026-06-21T19:39:03.199Z",
+      "synced": false
     }
   ]
 }
