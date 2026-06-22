@@ -7,6 +7,14 @@
       "category": "معجنات",
       "available": true,
       "imageUrl": "https://cdn.jsdelivr.net/gh/yousefkp2010-afk/resturant@main/images/img_1782126305157_store_icon.png"
+    },
+    {
+      "id": "m1782126431800",
+      "name": "شاورما",
+      "price": 2,
+      "category": "دجاج",
+      "available": true,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/yousefkp2010-afk/resturant@main/images/img_1782126423955_store_icon.png"
     }
   ],
   "orders": [
