@@ -15,6 +15,14 @@
       "category": "دجاج",
       "available": true,
       "imageUrl": "https://cdn.jsdelivr.net/gh/yousefkp2010-afk/resturant@main/images/img_1782126423955_store_icon.png"
+    },
+    {
+      "id": "m1782126477081",
+      "name": "وجبة كرسبي",
+      "price": 4,
+      "category": "دجاج",
+      "available": true,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/yousefkp2010-afk/resturant@main/images/img_1782126468541_store_icon.png"
     }
   ],
   "orders": [
