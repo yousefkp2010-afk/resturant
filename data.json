@@ -23,6 +23,14 @@
       "category": "دجاج",
       "available": true,
       "imageUrl": "https://cdn.jsdelivr.net/gh/yousefkp2010-afk/resturant@main/images/img_1782126468541_store_icon.png"
+    },
+    {
+      "id": "m1782126531454",
+      "name": "شاورما دبل",
+      "price": 5,
+      "category": "دجاج",
+      "available": true,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/yousefkp2010-afk/resturant@main/images/img_1782126524043_store_icon.png"
     }
   ],
   "orders": [
