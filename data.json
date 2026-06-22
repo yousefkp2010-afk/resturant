@@ -9,5 +9,27 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/yousefkp2010-afk/resturant@main/images/img_1782126305157_store_icon.png"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "orderId": "ord-1782126370775",
+      "customerName": "يوسف كبور",
+      "phone": "0934845366",
+      "deliveryMethod": "delivery",
+      "address": "33.96959308272608,36.657017860072926",
+      "landmark": "بجانب السيناما",
+      "items": [
+        {
+          "id": "m1782126311195",
+          "name": "بيتزا",
+          "price": 11,
+          "qty": 2
+        }
+      ],
+      "total": 22,
+      "notes": "",
+      "status": "reviewing",
+      "timestamp": "2026-06-22T11:06:10.776Z",
+      "synced": false
+    }
+  ]
 }
