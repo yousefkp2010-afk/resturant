@@ -1,7 +1,13 @@
 {
   "menu": [
+    {
+      "id": "m1782126311195",
+      "name": "بيتزا",
+      "price": 11,
+      "category": "معجنات",
+      "available": true,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/yousefkp2010-afk/resturant@main/images/img_1782126305157_store_icon.png"
+    }
   ],
-  "orders": [
-
-  ]
+  "orders": []
 }
