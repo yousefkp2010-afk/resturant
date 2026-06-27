@@ -54,6 +54,33 @@
       "status": "reviewing",
       "timestamp": "2026-06-22T11:06:10.776Z",
       "synced": false
+    },
+    {
+      "orderId": "ord-1782584039648",
+      "customerName": "ناصر كراكر",
+      "phone": "0934946462",
+      "deliveryMethod": "delivery",
+      "address": "33.9680541,36.6559631",
+      "landmark": "ابو غسان",
+      "items": [
+        {
+          "id": "m1782126311195",
+          "name": "بيتزا",
+          "price": 11,
+          "qty": 2
+        },
+        {
+          "id": "m1782126431800",
+          "name": "شاورما",
+          "price": 2,
+          "qty": 1
+        }
+      ],
+      "total": 24,
+      "notes": "",
+      "status": "reviewing",
+      "timestamp": "2026-06-27T18:13:59.650Z",
+      "synced": false
     }
   ]
 }
